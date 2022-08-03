@@ -16,6 +16,7 @@ Follow us on:
 - [Facebook](https://www.facebook.com/WebSnifferHQ/)
 - [LinkedIn](https://www.linkedin.com/company/websniffer/)
 - [Twitter](https://twitter.com/WebSnifferHQ)
+- [Telegram](https://t.me/websniffer)
 - [Instagram](https://www.instagram.com/websniffercc/)
 - [YouTube](https://www.youtube.com/channel/UCHtLNbdagCIfir1ulloAEhQ?sub_confirmation=1)
 
