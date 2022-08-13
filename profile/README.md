@@ -18,7 +18,7 @@ Follow us on:
 - [LinkedIn](https://www.linkedin.com/company/websniffer/)
 - [Twitter](https://twitter.com/WebSnifferHQ)
 - [Telegram](https://t.me/websniffer)
-- [Instagram](https://www.instagram.com/websniffercc/)
+- [Instagram](https://www.instagram.com/websnifferhq/)
 - [YouTube](https://www.youtube.com/channel/UCHtLNbdagCIfir1ulloAEhQ?sub_confirmation=1)
 
 Find the live version at **[WebSniffer.cc](https://websniffer.cc/)**
