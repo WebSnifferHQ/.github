@@ -22,6 +22,7 @@ Follow us on:
 - [YouTube](https://www.youtube.com/channel/UCHtLNbdagCIfir1ulloAEhQ?sub_confirmation=1)
 - [TikTok](https://www.tiktok.com/@websnifferhq)
 - [Pinterest](https://www.pinterest.com/WebSnifferHQ/)
+- [Twitch](https://www.twitch.tv/websnifferhq)
 
 WebSniffer also has an account at [SlideShare](https://www.slideshare.net/WebSniffer). Follow it if you want to receive updates about new presentation and slide decks that we upload there.
 
