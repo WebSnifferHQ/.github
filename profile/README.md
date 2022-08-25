@@ -4,7 +4,7 @@ Welcome to the WebSniffer project & organization.
 
 WebSniffer is an intelligence platform that tracks changes on the web and provides actionable insights. The online tool can currently view HTTP response headers of any web page and do domain name and IP address lookups. 
 
-If you want to stay up to date about the project's development, then subscribe to our [WebSniffer newsletter](https://mailchi.mp/3bd003dc74cb/websniffer-newsletter).
+If you want to stay up to date about the project's development, then subscribe to our free bi-weekly [WebSniffer newsletter](https://websniffer.substack.com/?showWelcome=true).
 
 Those who want to chat about the project can join one of our community spaces at:
 - [Discord](https://websniffer.cc/discord)
