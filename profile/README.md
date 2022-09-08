@@ -13,7 +13,7 @@ Those who want to chat about the project can join one of our community spaces at
 - [Telegram group](https://t.me/+TeiUpJ-Ir8x3LOI4)
 - [Reddit community](https://www.reddit.com/r/WebSniffer/)
 
-Follow us on:
+Follow us on social media:
 - [Facebook](https://www.facebook.com/WebSnifferHQ/)
 - [LinkedIn](https://www.linkedin.com/company/websniffer/)
 - [Twitter](https://twitter.com/WebSnifferHQ)
@@ -23,6 +23,11 @@ Follow us on:
 - [TikTok](https://www.tiktok.com/@websnifferhq)
 - [Pinterest](https://www.pinterest.com/WebSnifferHQ/)
 - [Twitch](https://www.twitch.tv/websnifferhq)
+
+Organization profiles:
+- [Angel.co](https://angel.co/company/websniffer)
+- [Crunchbase](https://www.crunchbase.com/organization/websniffer)
+- [Indie Hackers](https://www.indiehackers.com/product/websniffer)
 
 WebSniffer also has an account at [SlideShare](https://www.slideshare.net/WebSniffer). Follow it if you want to receive updates about new presentation and slide decks that we upload there.
 
