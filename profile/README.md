@@ -25,7 +25,6 @@ Follow us on social media:
 - [Twitch](https://www.twitch.tv/websnifferhq)
 
 Organization profiles:
-- [Angel.co](https://angel.co/company/websniffer)
 - [Crunchbase](https://www.crunchbase.com/organization/websniffer)
 - [Indie Hackers](https://www.indiehackers.com/product/websniffer)
 
