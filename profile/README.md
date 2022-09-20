@@ -28,6 +28,10 @@ Organization profiles:
 - [Crunchbase](https://www.crunchbase.com/organization/websniffer)
 - [Indie Hackers](https://www.indiehackers.com/product/websniffer)
 
+Donate:
+- [Ko-Fi](https://ko-fi.com/websniffer)
+- [Buy me a coffee](https://www.buymeacoffee.com/websniffer)
+
 WebSniffer also has an account at [SlideShare](https://www.slideshare.net/WebSniffer). Follow it if you want to receive updates about new presentation and slide decks that we upload there.
 
 Find the live version at **[WebSniffer.cc](https://websniffer.cc/)**
