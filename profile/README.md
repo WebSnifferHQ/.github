@@ -23,6 +23,7 @@ Follow us on social media:
 - [TikTok](https://www.tiktok.com/@websnifferhq)
 - [Pinterest](https://www.pinterest.com/WebSnifferHQ/)
 - [Twitch](https://www.twitch.tv/websnifferhq)
+- [Vimeo](https://vimeo.com/websniffer)
 
 Organization profiles:
 - [Crunchbase](https://www.crunchbase.com/organization/websniffer)
