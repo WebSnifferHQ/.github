@@ -18,7 +18,7 @@ Follow us on social media:
 - [LinkedIn](https://www.linkedin.com/company/websniffer/)
 - [Twitter](https://twitter.com/WebSnifferHQ)
 - [Telegram](https://t.me/websniffer)
-- [Instagram](https://www.instagram.com/websnifferhq/)
+- [Instagram](https://www.instagram.com/websniffer/)
 - [YouTube](https://www.youtube.com/channel/UCHtLNbdagCIfir1ulloAEhQ?sub_confirmation=1)
 - [TikTok](https://www.tiktok.com/@websnifferhq)
 - [Pinterest](https://www.pinterest.com/WebSnifferHQ/)
