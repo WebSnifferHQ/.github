@@ -24,6 +24,7 @@ Follow us on social media:
 - [Pinterest](https://www.pinterest.com/WebSnifferHQ/)
 - [Twitch](https://www.twitch.tv/websnifferhq)
 - [Vimeo](https://vimeo.com/websniffer)
+- [SoundCloud](https://soundcloud.com/websniffer)
 
 Organization profiles:
 - [Crunchbase](https://www.crunchbase.com/organization/websniffer)
