@@ -10,7 +10,7 @@ Those who want to chat about the project can join one of our community spaces at
 - [Discord](https://websniffer.com/discord)
 - [LinkedIn group](https://www.linkedin.com/groups/12674327/)
 - [Facebook group](https://www.facebook.com/groups/2238585586464598/)
-- [Telegram group](https://t.me/+TeiUpJ-Ir8x3LOI4)
+- [Telegram group](https://websniffer.com/telegram)
 - [Reddit community](https://www.reddit.com/r/WebSniffer/)
 
 Follow us on social media:
