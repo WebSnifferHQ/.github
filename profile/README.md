@@ -2,7 +2,7 @@ Hi there 👋
 
 Welcome to the WebSniffer project & organization.
 
-[WebSniffer](https://websniffer.com/) is an intelligence platform in the making that will track changes on the web and provide actionable insights. The online tool can currently view [HTTP response headers](https://websniffer.com/) of any web page, do [domain name](https://websniffer.com/domain), [IP address lookups](https://websniffer.com/ip) and provides [user information](https://websniffer.com/my) such as IP address, user agent and more.
+[WebSniffer](https://websniffer.com/) is an intelligence platform in the making that will track changes on the web and provide actionable insights. The online tool can currently view [HTTP response headers](https://websniffer.com/) of any web page, do [domain name](https://websniffer.com/domain), [IP address lookups](https://websniffer.com/ip) and provides [browser information](https://websniffer.com/my) such as IP address, user agent and more.
 
 If you want to stay up to date about the project's development, then subscribe to our free bi-weekly [WebSniffer newsletter](https://websniffer.substack.com/?showWelcome=true).
 
